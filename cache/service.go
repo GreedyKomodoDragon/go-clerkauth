@@ -17,7 +17,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/redis/go-redis/v9"
 
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 // NotFoundSentinel marks a known-missing username in Redis.

@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 func TestUserInfo_ZeroValue(t *testing.T) {

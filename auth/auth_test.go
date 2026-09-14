@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"huxim/libs/clerkauth/auth"
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/auth"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 type stubResolver struct{ username string }

@@ -9,7 +9,7 @@ import (
 	"github.com/redis/go-redis/v9"
 	"github.com/stretchr/testify/require"
 
-	"huxim/libs/clerkauth/cache"
+	"github.com/GreedyKomodoDragon/go-clerkauth/cache"
 )
 
 func newTestService(t *testing.T, apiKey string) (*cache.Service, *miniredis.Miniredis) {

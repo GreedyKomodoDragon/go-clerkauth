@@ -10,7 +10,7 @@ import (
 	"context"
 	"strings"
 
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 type ExternalAccount struct {

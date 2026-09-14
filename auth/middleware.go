@@ -8,7 +8,7 @@ import (
 
 	"github.com/clerk/clerk-sdk-go/v2"
 
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 // contextKey is the request-context key for UserInfo.

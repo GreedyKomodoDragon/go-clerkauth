@@ -7,7 +7,7 @@ import (
 
 	"github.com/clerk/clerk-sdk-go/v2/jwt"
 
-	"huxim/libs/clerkauth/userinfo"
+	"github.com/GreedyKomodoDragon/go-clerkauth/userinfo"
 )
 
 // Verify validates a Clerk JWT (or E2E bypass token) and builds a UserInfo.
